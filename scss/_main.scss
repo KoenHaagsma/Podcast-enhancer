@@ -1,0 +1,198 @@
+main {
+    width: 100%;
+    padding-top: 5rem;
+    section {
+        width: 100%;
+        h2 {
+            width: 100%;
+            text-align: center;
+            padding: 1rem 0;
+            background-color: lightgrey;
+            margin: 0 0 0 0;
+        }
+        article {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 80vh;
+            padding: 5rem;
+            p {
+                font-size: 2.5rem;
+                font-weight: bold;
+            }
+        }
+        &.achtergrond {
+            .color-container:nth-of-type(1) {
+                article:nth-of-type(1) {
+                    background-color: white;
+                }
+                article:nth-of-type(2) {
+                    p {
+                        text-decoration: underline;
+                    }
+                }
+                article:nth-of-type(3) {
+                }
+            }
+            .color-container:nth-of-type(2) {
+                article:nth-of-type(1) {
+                    background-color: black;
+                    color: white;
+                }
+                article:nth-of-type(2) {
+                    background-color: black;
+                    color: white;
+                    text-decoration: underline;
+                }
+                article:nth-of-type(3) {
+                    background-color: black;
+                    color: white;
+                }
+            }
+            .color-container:nth-of-type(3) {
+                article:nth-of-type(1) {
+                    background-color: gray;
+                }
+                article:nth-of-type(2) {
+                    p {
+                        color: gray;
+                        text-decoration: underline;
+                    }
+                }
+                article:nth-of-type(3) {
+                    p {
+                        color: gray;
+                    }
+                }
+            }
+            .color-container:nth-of-type(4) {
+                article:nth-of-type(1) {
+                    background-color: red;
+                }
+                article:nth-of-type(2) {
+                    p {
+                        color: red;
+                        text-decoration: underline;
+                    }
+                }
+                article:nth-of-type(3) {
+                    p {
+                        color: red;
+                    }
+                }
+            }
+            .color-container:nth-of-type(5) {
+                article:nth-of-type(1) {
+                    background-color: orange;
+                }
+                article:nth-of-type(2) {
+                    p {
+                        color: orange;
+                        text-decoration: underline;
+                    }
+                }
+                article:nth-of-type(3) {
+                    p {
+                        color: orange;
+                    }
+                }
+            }
+            .color-container:nth-of-type(6) {
+                article:nth-of-type(1) {
+                    background-color: yellow;
+                }
+                article:nth-of-type(2) {
+                    p {
+                        color: yellow;
+                        text-decoration: underline;
+                    }
+                }
+                article:nth-of-type(3) {
+                    p {
+                        color: yellow;
+                    }
+                }
+            }
+            .color-container:nth-of-type(7) {
+                article:nth-of-type(1) {
+                    background-color: green;
+                }
+                article:nth-of-type(2) {
+                    p {
+                        color: green;
+                        text-decoration: underline;
+                    }
+                }
+                article:nth-of-type(3) {
+                    p {
+                        color: green;
+                    }
+                }
+            }
+            .color-container:nth-of-type(8) {
+                article:nth-of-type(1) {
+                    background-color: blue;
+                }
+                article:nth-of-type(2) {
+                    p {
+                        color: blue;
+                        text-decoration: underline;
+                    }
+                }
+                article:nth-of-type(3) {
+                    p {
+                        color: blue;
+                    }
+                }
+            }
+            .color-container:nth-of-type(9) {
+                article:nth-of-type(1) {
+                    background-color: #964b00;
+                }
+                article:nth-of-type(2) {
+                    p {
+                        color: #964b00;
+                        text-decoration: underline;
+                    }
+                }
+                article:nth-of-type(3) {
+                    p {
+                        color: #964b00;
+                    }
+                }
+            }
+            .color-container:nth-of-type(10) {
+                article:nth-of-type(1) {
+                    background-color: purple;
+                }
+                article:nth-of-type(2) {
+                    p {
+                        color: purple;
+                        text-decoration: underline;
+                    }
+                }
+                article:nth-of-type(3) {
+                    p {
+                        color: purple;
+                    }
+                }
+            }
+            .color-container:nth-of-type(11) {
+                article:nth-of-type(1) {
+                    background-color: pink;
+                }
+                article:nth-of-type(2) {
+                    p {
+                        color: pink;
+                        text-decoration: underline;
+                    }
+                }
+                article:nth-of-type(3) {
+                    p {
+                        color: pink;
+                    }
+                }
+            }
+        }
+    }
+}
