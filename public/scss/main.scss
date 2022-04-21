@@ -1,0 +1,13 @@
+// Colors
+$primary-color: #6200ee;
+$secondary-color: #03dac6;
+$color-background-light: #ffffff;
+$color-background-dark: #262626;
+$color-error: #b00020;
+
+// Imports
+@import '_fonts.scss';
+@import '_general.scss';
+@import '_index.scss';
+@import '_emotions.scss';
+@import '_soundLevel.scss';

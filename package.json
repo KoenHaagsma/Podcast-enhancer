@@ -1,0 +1,33 @@
+{
+    "name": "human-centered-design-2122",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "directories": {
+        "doc": "docs"
+    },
+    "scripts": {
+        "dev": "nodemon index.js",
+        "start": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/KoenHaagsma/human-centered-design-2122.git"
+    },
+    "author": "Koen Haagsma",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/KoenHaagsma/human-centered-design-2122/issues"
+    },
+    "homepage": "https://github.com/KoenHaagsma/human-centered-design-2122#readme",
+    "dependencies": {
+        "dotenv": "^16.0.0",
+        "express": "^4.17.3",
+        "path": "^0.12.7",
+        "pug": "^3.0.2"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.15"
+    }
+}
