@@ -4,10 +4,10 @@ extends ./layout/layout.pug
 block content
     section
         each section in text
-            article 
-                p(class=section.emotion + ' ' + section.sound_level)
+            section 
+                article(class=section.emotion + ' ' + section.sound_level + ' ' + section.speaker)
                     span(class="speaker")= section.speaker
-                    = section.text
+                    p= section.text
                 
         
 

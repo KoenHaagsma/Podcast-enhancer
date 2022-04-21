@@ -1,10 +1,32 @@
-article {
-    &.span {
-        &:nth-child(even) {
+section {
+    padding: 0.5rem;
+    margin: 0.5rem;
+    p {
+        display: flex;
+        flex-direction: column;
+        line-height: 140%;
+        margin: 0;
+        border-radius: 5px;
+        span {
+            width: fit-content;
+            padding: 0.25rem 0.5rem;
+            margin: 0.5rem;
+            border-radius: 5px;
         }
-        &:nth-child(odd) {
+        &.John {
+            border: 2px solid var(--primary-color);
+            span {
+                background-color: var(--primary-color);
+            }
+        }
+        &.Amy {
+            border: 2px solid var(--secondary-color);
+            span {
+                background-color: var(--secondary-color);
+            }
         }
     }
+
     // Sound level
     &.low {
         p {
