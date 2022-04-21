@@ -1,1 +1,1 @@
-"use strict";console.log("test");
+"use strict";var html=document.querySelector("html");function switchTheme(t){html.dataset.theme="theme-".concat(t)}html.dataset.theme="theme-light";

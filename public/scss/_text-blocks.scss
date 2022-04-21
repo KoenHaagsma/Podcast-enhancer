@@ -1,0 +1,59 @@
+article {
+    &.span {
+        &:nth-child(even) {
+        }
+        &:nth-child(odd) {
+        }
+    }
+    // Sound level
+    &.low {
+        p {
+        }
+        span {
+        }
+    }
+    &.normal {
+        p {
+        }
+        span {
+        }
+    }
+    &.high {
+        p {
+        }
+        span {
+        }
+    }
+
+    // Emotion
+    &.sadness {
+        p {
+        }
+        span {
+        }
+    }
+    &.fear {
+        p {
+        }
+        span {
+        }
+    }
+    &.hapiness {
+        p {
+        }
+        span {
+        }
+    }
+    &.anger {
+        p {
+        }
+        span {
+        }
+    }
+    &.disgust {
+        p {
+        }
+        span {
+        }
+    }
+}
