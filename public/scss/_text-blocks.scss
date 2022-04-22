@@ -1,81 +1,103 @@
 section {
     padding: 0.5rem;
     margin: 0.5rem;
-    p {
-        display: flex;
-        flex-direction: column;
-        line-height: 140%;
-        margin: 0;
+    article {
         border-radius: 5px;
         span {
-            width: fit-content;
-            padding: 0.25rem 0.5rem;
-            margin: 0.5rem;
+            display: inline-block;
+            margin: 1rem 0 0 1rem;
+            padding: 0.25rem;
             border-radius: 5px;
         }
         &.John {
-            border: 2px solid var(--primary-color);
-            span {
-                background-color: var(--primary-color);
-            }
-        }
-        &.Amy {
             border: 2px solid var(--secondary-color);
             span {
                 background-color: var(--secondary-color);
             }
         }
-    }
+        &.Amy {
+            border: 2px solid var(--primary-color);
+            span {
+                background-color: var(--primary-color);
+            }
+        }
+        p {
+            display: flex;
+            flex-direction: column;
+            line-height: 140%;
+            margin: 0;
+            padding: 1rem;
+            span {
+                width: fit-content;
+                padding: 0.25rem 0.5rem;
+                margin: 0.5rem;
+                border-radius: 5px;
+            }
+        }
 
-    // Sound level
-    &.low {
-        p {
+        // Sound level
+        &.low {
+            p {
+            }
+            span {
+            }
         }
-        span {
+        &.normal {
+            p {
+            }
+            span {
+            }
         }
-    }
-    &.normal {
-        p {
+        &.high {
+            p {
+            }
+            span {
+            }
         }
-        span {
-        }
-    }
-    &.high {
-        p {
-        }
-        span {
-        }
-    }
 
-    // Emotion
-    &.sadness {
-        p {
+        // Emotion
+        &.sadness {
+            p {
+                font-family: 'Short Stack', cursive;
+                line-height: 5;
+                font-size: 0.8rem;
+                padding: 2rem;
+            }
+            span {
+            }
         }
-        span {
+        &.fear {
+            p {
+                font-family: 'Short Stack', cursive;
+                font-weight: 200;
+                line-height: 0.7;
+                font-size: 0.75rem;
+                padding: 3rem;
+            }
+            span {
+            }
         }
-    }
-    &.fear {
-        p {
+        &.happiness {
+            p {
+            }
+            span {
+            }
         }
-        span {
+        &.anger {
+            p {
+                text-transform: uppercase;
+                font-size: 1.5rem;
+                line-height: 1.2;
+                font-weight: bold;
+            }
+            span {
+            }
         }
-    }
-    &.hapiness {
-        p {
-        }
-        span {
-        }
-    }
-    &.anger {
-        p {
-        }
-        span {
-        }
-    }
-    &.disgust {
-        p {
-        }
-        span {
+        &.disgust {
+            p {
+            }
+            span {
+            }
         }
     }
 }

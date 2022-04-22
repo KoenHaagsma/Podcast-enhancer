@@ -1,12 +1,12 @@
 :root[data-theme='theme-light'] {
-    --primary-color: #6300ee5b;
+    --primary-color: #ee007f;
     --secondary-color: #00a3ee;
     --text-color: #000000;
     --background-color: #ffffff;
 }
 
 :root[data-theme='theme-dark'] {
-    --primary-color: #6300ee5b;
+    --primary-color: #ee007f;
     --secondary-color: #00a3ee;
     --text-color: #ffffff;
     --background-color: #262626;
@@ -42,10 +42,11 @@ body {
 header {
     width: 100%;
     padding: 1rem;
+    max-width: 55vw;
 }
 
 main {
-    max-width: 70vw;
+    max-width: 60vw;
     width: 100%;
     height: 100vh;
     display: flex;
