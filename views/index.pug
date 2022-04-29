@@ -6,7 +6,7 @@ block content
         each section in text
             section 
                 article(class=section.emotion + ' ' + section.sound_level + ' ' + section.speaker)
-                    span(class="speaker")= section.speaker
+                    span(class="speaker")= section.speaker + ' - ' + section.emotion
                     p= section.text
                 
         
