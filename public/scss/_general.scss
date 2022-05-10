@@ -50,6 +50,9 @@ header {
     background: linear-gradient(0deg, rgba(255, 255, 255, 0) 0%, var(--background-colorRGBA) 50%);
     z-index: 1;
     height: 10rem;
+    h1 {
+        font-size: 0.9rem;
+    }
 }
 
 main {
