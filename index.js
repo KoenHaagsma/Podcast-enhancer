@@ -10,7 +10,7 @@ app.set('view engine', 'pug');
 app.set('views', path.join(__dirname, '/views'));
 
 app.get('/', (req, res) => {
-    const transcript = require('./public/transcripts/test.json');
+    const transcript = require('./public/transcripts/Effe-relativeren-40s.json');
     console.log(transcript.text[0]);
     res.render('index.pug', { text: transcript.text });
 });

@@ -34,73 +34,69 @@ section {
                 border-radius: 5px;
             }
         }
-
-        // Sound level
-        &.low {
-            p {
-            }
-            span {
-            }
-        }
-        &.normal {
-            p {
-            }
-            span {
-            }
-        }
-        &.high {
-            p {
-            }
-            span {
-            }
-        }
-
-        // Emotion
-        &.sadness {
-            p {
-                font-family: 'Short Stack', cursive;
-                line-height: 5;
-                font-size: 0.8rem;
-                padding: 2rem;
-            }
-            span {
-            }
-        }
-        &.fear {
-            p {
-                font-family: 'Short Stack', cursive;
-                font-weight: 200;
-                line-height: 0.7;
-                font-size: 0.75rem;
-                padding: 3rem;
-            }
-            span {
-            }
-        }
-        &.happiness {
-            p {
-                font-family: 'Comic Sans MS', 'Comic Sans';
-                font-size: 1.2rem;
-                line-height: 0.95;
-            }
-            span {
-            }
-        }
-        &.anger {
-            p {
-                font-family: 'Permanent Marker', cursive;
-                text-transform: uppercase;
-                font-size: 1.5rem;
-                line-height: 1.2;
-            }
-            span {
-            }
-        }
-        &.disgust {
-            p {
-            }
-            span {
-            }
-        }
     }
+}
+
+// Sound level
+.low {
+    p {
+    }
+    span {
+    }
+}
+.normal {
+    p {
+    }
+    span {
+    }
+}
+.high {
+    p {
+    }
+    span {
+    }
+}
+
+// Emotion
+.verdriet {
+    p {
+        font-family: 'Short Stack', cursive;
+        line-height: 5;
+        font-size: 0.8rem;
+        padding: 2rem;
+    }
+    span {
+    }
+}
+.angst {
+    p {
+        font-family: 'Short Stack', cursive;
+        font-weight: 200;
+        line-height: 0.7;
+        font-size: 0.75rem;
+        padding: 3rem;
+    }
+    span {
+    }
+}
+.blijdschap {
+    p {
+        font-family: 'Comic Sans MS', 'Comic Sans';
+        font-size: 1.2rem;
+        line-height: 0.95;
+    }
+    span {
+    }
+}
+.boosheid {
+    p {
+        font-family: 'Permanent Marker', cursive;
+        text-transform: uppercase;
+        font-size: 1.5rem;
+        line-height: 1.2;
+    }
+    span {
+    }
+}
+.serieus {
 }

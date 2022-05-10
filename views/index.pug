@@ -2,12 +2,18 @@
 extends ./layout/layout.pug
 
 block content
-    section
+    .speaker1 
+    .speaker2 
+    .speaker3
+    section.first-section
         each section in text
-            section 
+            section.speaker-section(id=section.id)
                 article(class=section.emotion + ' ' + section.sound_level + ' ' + section.speaker)
                     span(class="speaker")= section.speaker + ' - ' + section.emotion
                     p= section.text
+        .progress
+            .progressBar
+
                 
         
 
