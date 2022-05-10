@@ -43,36 +43,13 @@ body {
 
 header {
     width: calc(100% - 2rem);
-    padding: 1rem;
+    padding: 1rem 4rem;
     position: fixed;
     top: 0;
-    .progressBar {
-        max-width: 100% !important;
-        width: 0%;
-        height: 0.3rem;
-        background-color: var(--primary-color);
-    }
-}
-
-div.speaker1 {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    top: 0;
-    width: 12px;
-    &.show {
-        background-color: red;
-    }
-}
-div.speaker2 {
-    position: fixed;
-    right: 0;
-    bottom: 0;
-    top: 0;
-    width: 12px;
-    &.show {
-        background-color: blue;
-    }
+    background: rgb(255, 255, 255);
+    background: linear-gradient(0deg, rgba(255, 255, 255, 0) 0%, var(--background-colorRGBA) 50%);
+    z-index: 1;
+    height: 10rem;
 }
 
 main {
@@ -85,7 +62,7 @@ main {
         max-width: 700px;
         flex-grow: 1;
         position: relative;
-        margin-top: 20rem;
+        margin-top: 8rem;
         padding-bottom: 20rem;
         .progress {
             background: rgb(255, 255, 255);

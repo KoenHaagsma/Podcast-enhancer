@@ -2,80 +2,94 @@
     "title": "KEES VAN DER SPEK over CRIMINELEN, OPLICHTERS, PETER R. DE VRIES en OPVOEDING | EFFE RELATIVEREN",
     "text": [
         {
-            "speaker": "Kees van der Spek",
-            "id": 1,
+            "speaker": "Kees van der Spek, <br>zware mannen stem, doorgewinterd",
+            "id": "one",
             "emotion": "serieus",
-            "text": "Het was echt iemand die voor niets een pistool kon trekken",
+            "text": "<span>T</span> <span>was</span> <span><b>écht</b></span> <span>iemand</span> <span>die...</span> <span>die</span> <span>voor</span> <span><b>níks</b></span> <span>een</span> <span>pistool</span> <span>kon</span> <span>trekken</span>",
             "sound_level": "normal"
         },
         {
-            "speaker": "Kaj Gorgels",
-            "id": 2,
-            "emotion": "fear",
-            "text": "Ja",
+            "speaker": "Kaj Gorgels, <br> Wat hogere mannen stem, plat Rotterdams",
+            "id": "two",
+            "emotion": "geïnteresseerd",
+            "text": "<em>bevestigende</em> <span>ja</span>",
             "sound_level": "normal"
         },
         {
             "speaker": "Kees van der Spek",
-            "id": 1,
-            "emotion": "happiness",
-            "text": "Ja we gaan gewoon heen en we kijken wel of het lukt,",
+            "id": "one",
+            "emotion": "rustig",
+            "text": "<span>Het</span> <span>resultaat</span> <span>was</span> <span>dat</span> <span>euhh</span> <span>Friso</span> <span>euhh</span> <span>z'n</span> <span>recht</span> <span>op</span> <span>troonopvolging</span> <span>uhm</span> <span>hééft..</span> <span>móéten</span> <span>cancelen</span>",
+            "sound_level": "normal"
+        },
+        {
+            "speaker": "Kees van der Spek",
+            "id": "one",
+            "emotion": "blijdschap",
+            "text": "Ja we gaan gewoon heen en we kijken wel of het lukt!,",
             "sound_level": "normal"
         },
         {
             "speaker": "Kaj Gorgels",
-            "id": 2,
-            "emotion": "anger",
-            "text": "Ja",
+            "id": "two",
+            "emotion": "geïnteresseerd",
+            "text": "<em>bevestigende</em> Ja",
             "sound_level": "normal"
         },
         {
             "speaker": "Kees",
-            "id": 1,
-            "emotion": "normal",
-            "text": "dat is het eigenlijk en dat durft tegenwoordig bijna niemand meer als je gedrogeerd wordt dan gaan ze je bestelen maken ze die tas open en dan zien ze daar een rood lampje branden",
+            "id": "one",
+            "emotion": "blijdschap",
+            "text": "dat is het eigenlijk en dat durft tegenwoordig bijna niemand meer,",
+            "sound_level": "normal"
+        },
+        {
+            "speaker": "Kees, snel pratend",
+            "id": "one",
+            "emotion": "verbaasd",
+            "text": "Als je gedrogeerd wordt dan gaan ze je bestélen maken ze die tas open en dan zien ze daar een rood lampje branden",
             "sound_level": "normal"
         },
         {
             "speaker": "Kaj",
-            "id": 2,
-            "emotion": "anger",
-            "text": "Ja, ohw man.",
+            "id": "two",
+            "emotion": "beseffend",
+            "text": "Ja, ohw man...",
             "sound_level": "normal"
         },
         {
             "speaker": "Kees",
-            "id": 1,
-            "emotion": "normal",
-            "text": "Nohhh",
+            "id": "one",
+            "emotion": "beseffend",
+            "text": "Nohhh...",
+            "sound_level": "normal"
+        },
+        {
+            "speaker": "Kaj Gorgels",
+            "id": "two",
+            "emotion": "geïnteresseerd",
+            "text": "<em>bevestigende</em> Ja",
             "sound_level": "normal"
         },
         {
             "speaker": "Kaj",
-            "id": 2,
-            "emotion": "anger",
-            "text": "Ja",
-            "sound_level": "normal"
-        },
-        {
-            "speaker": "Kaj",
-            "id": 2,
-            "emotion": "anger",
-            "text": "Ik weet niet vroeger gewoon met steentjes op een raam gooien ofzo, vond ik fantastisch gewoon echt dat kattenkwaad",
+            "id": "two",
+            "emotion": "enthousiast",
+            "text": "Ik weet niet.. <strong class='blijdschap'>vroeger gewoon met steentjes</strong> op een raam gooien ofzo, vond ik <strong class='blijdschap'>fántástisch!</strong> gewoon écht <b>dat</b> káttenkwaad",
             "sound_level": "normal"
         },
         {
             "speaker": "Kees",
-            "id": 1,
-            "emotion": "anger",
-            "text": "Ja",
+            "id": "one",
+            "emotion": "geïnteresseerd",
+            "text": "<em>bevestigende</em> Ja",
             "sound_level": "normal"
         },
         {
             "speaker": "Kees",
-            "id": 1,
-            "emotion": "anger",
-            "text": "Er is nu natuurlijk een enorm beschermende euh euh opvoeding gaande in Nederland en dat haat ik.",
+            "id": "one",
+            "emotion": "boosheid",
+            "text": "Er is nu natuurlijk een enorm beschermende euh euh opvoeding gaande in Nederland en dat <strong class='beseffend'>háát</strong> ik.",
             "sound_level": "normal"
         }
     ]
