@@ -7,14 +7,14 @@
 -   [License](##License)
 
 ## 📂 Assignment
-*Assignment explanation*
 
 ## 👨‍🏫 Problem
+
+### 👨‍🏫 The problem
 
 ### 💹 How I tried to solve the problem
 
 ## 📖 About the project
-*Tell where the project is about*
 
 ## 📑 Sources
 - [Bronnen]()
