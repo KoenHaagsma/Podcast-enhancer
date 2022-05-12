@@ -1,4 +1,7 @@
 # Human centered design - Podcast Enhancer
+![Test_3](https://user-images.githubusercontent.com/48258318/168037769-81a793ad-d011-4cef-b538-8e369c710805.gif)
+
+![Knipsel](https://user-images.githubusercontent.com/48258318/168037806-2fdf7c41-c52d-4e17-8c74-f8da72e18bce.PNG)
 
 ## 🧾 Table of contents
 -   [Assignment](##Assignment)
