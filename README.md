@@ -21,7 +21,10 @@ Mijn 3e prototype die hierboven als afbeelding staat en is te vinden op: https:/
 Ik heb dus mijn ontwerp puur gericht op Marie waardoor het uniek is voor Marie. Er zijn nog heel veel dingen die beter kunnen en die gedaan moeten worden maar er staat een mooie basis waarop verder gewerkt kan worden.
 
 ## 📑 Sources
-- [Bronnen]()
+- [Pulp fiction](https://www.youtube.com/watch?v=4FlcS9_LXho)
+- [House of leaves](https://en.wikipedia.org/wiki/House_of_Leaves)
+- [Geronimo Stilton](https://www.dewakkeremuis.nl/)
+- [Color Psychology](http://www.arttherapyblog.com/online/color-psychology-psychologica-effects-of-colors/)
 
 ## 🔖 License
 [![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)]()
