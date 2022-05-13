@@ -8,6 +8,8 @@
 -   [Sources](##Sources)
 -   [License](##License)
 
+## Hele project staat in de wiki: 
+
 ## 📂 Assignment
 Een ontwerp-opdracht maken voor 1 mens. Een echt mens. Het ontwerp wordt 3 keer getest. Door te testen en te itereren het ontwerp verbeteren. Uiteindelijk heb ontstaat er een ontwerp dat exclusief gemaakt is voor 1 persoon. Een exclusive design ...
 
